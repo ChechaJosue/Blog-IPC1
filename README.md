@@ -1,0 +1,1 @@
+## HUGO Example Site Personal Site with Offline (PWA)
