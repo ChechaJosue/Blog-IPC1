@@ -1,6 +1,6 @@
 ---
 title: Guía para usar emojis
-date: 2021-01-18T08:53:05-06:00
+date: 2021-01-17T08:53:05-06:00
 tags:
 - seo
 
