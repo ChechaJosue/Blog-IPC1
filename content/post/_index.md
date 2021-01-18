@@ -1,10 +1,11 @@
 ---
-title: Post 📝
+title: "Post \U0001F4DD"
 toc: false
 authorBox: false
 breadcrumb: false
 comments: false
 share: false
-description: "Berikut berbagai hasil karya tulisan saya yang saya begikan ke teman-teman semua."
+description: Ejemplos de IPC1
 page: true
+
 ---
