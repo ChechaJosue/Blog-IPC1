@@ -1,23 +1,23 @@
-baseURL                       = "https://example.com/"
+baseURL                       = "https://ipc1.netlify.app/"
 languageCode                  = "id"
-title                         = "Wisnuwiry"
+title                         = "IPC1"
 theme                         = "personal-site"
 summaryLength                 = 10
 
 [Author] # Used in authorbox
-  name                        = "Jhon Doe"
+  name                        = "César Reyes"
   bio                         = ""
   avatar                      = "img/avatar.png"
   job                         = "Software Engineer"
   gender                      = "male"
-  email                       = "jhon-doe@gmail.com"
+  email                       = "chechajosue@gmail.com"
 
 
 [Params]
-  subTitle                    = "Personal site, Blog, and Portfolio"
-  description                 = "Sebuah catatan dan blog pribadi saya. Saya juga akan membagi tentang pengalaman saya dan teknologi-teknolgi yang saya gunakan/pelajari atau yang sedang populer." # Site Description. Used in meta description
+  subTitle                    = "Blog IPC1"
+  description                 = "Ejemplos IPC1." # Site Description. Used in meta description
   images                      = ["img/avatar.png"]
-  copyright                   = "Wisnuwiry" # Copyright holder, otherwise will use .Site.Title
+  copyright                   = "César" # Copyright holder, otherwise will use .Site.Title
   opengraph                   = true # Enable OpenGraph if true
   twitter_cards               = true # Enable Twitter Cards if true
   mainSections                = ["post"] # Set main page sections
@@ -55,8 +55,8 @@ summaryLength                 = 10
 
 
 [Params.Hero]
-  title                       = "A Personal Site By Jhon Doe"
-  desc                        = "Welcome to my Blog :)"
+  title                       = "Blog IPC1"
+  desc                        = "Encuentra ejemplos prácticos"
 
 [Params.Entry]
   meta                        = ["date", "categories"] # Enable meta fields in given order
@@ -107,21 +107,21 @@ weight = 5
   homeText                    = "Home" # Home node text
 
 [Params.Social]
-  twitter                     = "jhon-doe"
-  telegram                    = "jhon-doe"
+#  twitter                     = "jhon-doe"
+#  telegram                    = "jhon-doe"
 # instagram                   = "jhon-doe"
-  linkedin                    = "wisnu-saputra"
+#  linkedin                    = "wisnu-saputra"
   github                      = "jhon-doe"
-  gitlab                      = "jhon-doe"
-  medium                      = "jhon-doe"
+#  gitlab                      = "jhon-doe"
+#  medium                      = "jhon-doe"
 
 [Params.Share] # Entry Share block
-  facebook                    = true
-  twitter                     = true
-  reddit                      = true
-  telegram                    = true
-  linkedin                    = true
-  pinterest                   = true
+  facebook                    = false
+  twitter                     = false
+  reddit                      = false
+  telegram                    = false
+  linkedin                    = false
+  pinterest                   = false
 
 # Web App Manifest settings
 # https://www.w3.org/TR/appmanifest/
